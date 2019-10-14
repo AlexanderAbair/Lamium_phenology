@@ -1,5 +1,5 @@
-# ATTENTION: I AM WORKING ON CLEANING THIS PROJECT AND CONVERTING IT INTO A TUTORIAL.
-# SOON TO BE DEPRECATED, BUT A NEW LINK WILL BE PLACED HERE. 
+# ATTENTION: 
+  I AM WORKING ON CLEANING THIS PROJECT AND CONVERTING IT INTO A TUTORIAL. SOON TO BE DEPRECATED, BUT A NEW LINK WILL BE PLACED HERE. 
 # *Lamium amplexicaule* phenology analysis
   Here are all my scripts for my test analysis of iNaturalist phenology data.
   The first steps are carried out in the r project in the root directory.
